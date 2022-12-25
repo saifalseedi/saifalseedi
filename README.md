@@ -2,7 +2,7 @@
   src="https://i1.rgstatic.net/ii/institution.image/AS%3A267457388843037%401440778219029_l"
   alt="Alt text"
   title="XJTU"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 1000 auto; max-width: 300px">
 - 👀 I’m interested in NEMS & MEMS technology.
 - 🌱 I’m currently learning how to fabricate sensor with new 2D materials such as Maxthane or MOF(metal organic framework) 
 - 💞️ I’m looking to collaborate on gas sensor fabrication using 2D materials (Maxthane or MOF)
