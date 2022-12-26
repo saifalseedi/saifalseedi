@@ -13,7 +13,7 @@
 <img
   src="https://github.com/saifalseedi/CV/blob/main/IEMIT.jpg"
   alt="Alt text"
-  title="Optional title"
+  title="iemit"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
    
 
