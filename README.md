@@ -10,7 +10,7 @@
   title="XJTU"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
-  ![My Image]([my-image.jpg](https://github.com/saifalseedi/CV/blob/main/IEMIT.jpg))
+  ![My Image]([my-image.jpg]([https://github.com/saifalseedi/CV/blob/main/IEMIT.jpg](https://github.com/saifalseedi/CV/blob/main/IEMIT.jpg?raw=true)))
 
 
 <!---
