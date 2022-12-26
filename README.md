@@ -9,8 +9,12 @@
   alt="Alt text"
   title="XJTU"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
-  ![My Image]([my-image.jpg]([https://github.com/saifalseedi/CV/blob/main/IEMIT.jpg](https://github.com/saifalseedi/CV/blob/main/IEMIT.jpg?raw=true)))
+  <img
+  src="[https://i1.rgstatic.net/ii/institution.image/AS%3A267457388843037%401440778219029_l](https://github.com/saifalseedi/CV/blob/main/IEMIT.jpg)"
+  alt="Alt text"
+  title="XJTU"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+   
 
 
 <!---
