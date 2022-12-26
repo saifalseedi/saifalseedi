@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saifaldeen :hungary: :cn:
+- 👋 Hi, I’m Saifaldeen :hungary: :cn: :taurus:
 - 👀 I’m interested in NEMS & MEMS technology.
 - 🌱 I’m currently learning how to fabricate sensor with new 2D materials such as Maxthane or MOF(metal organic framework) 
 - 💞️ I’m looking to collaborate on gas sensor fabrication using 2D materials (Maxthane or MOF)
