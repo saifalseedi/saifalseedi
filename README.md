@@ -9,7 +9,8 @@
   alt="Alt text"
   title="XJTU"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
+  ![My Image](CV/IEMIT.jpg)
+
 
 <!---
 saifalseedi/saifalseedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
